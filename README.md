@@ -9,3 +9,4 @@ Automatically scratches Leonet Scratch
 5. Type pip install -r requirements.txt
 6. Put your leonet credentials on credentials.json
 7. Run the code: python3 scratch.py
+8. Add this to crontab so it runs daily
